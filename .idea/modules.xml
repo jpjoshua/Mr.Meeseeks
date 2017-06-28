@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mr.Meeseeks.iml" filepath="$PROJECT_DIR$/.idea/Mr.Meeseeks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Password Manager/.idea/Password Manager.iml" filepath="$PROJECT_DIR$/../Password Manager/.idea/Password Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Plane Maker/.idea/Plane Maker.iml" filepath="$PROJECT_DIR$/../Plane Maker/.idea/Plane Maker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ProjectGIR/.idea/ProjectGIR.iml" filepath="$PROJECT_DIR$/../ProjectGIR/.idea/ProjectGIR.iml" />
+    </modules>
+  </component>
+</project>
