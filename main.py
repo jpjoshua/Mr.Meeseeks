@@ -18,7 +18,7 @@ def prg_start():
         play_file("im_mr_meeseeks")
 
 def play_file(filename):
-    pygame.mixer.music.load("C:/Users/Joshua/PycharmProjects/Mr.Meeseeks/%s.mp3" %(filename))
+    pygame.mixer.music.load("%s.mp3" %(filename))
     pygame.mixer.music.play()
     while pygame.mixer.music.get_busy():
         pygame.time.Clock().tick(10)
